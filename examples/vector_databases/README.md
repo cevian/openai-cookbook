@@ -18,6 +18,7 @@ Each provider has their own named directory, with a standard notebook to introdu
 - [MyScale](https://docs.myscale.com/en/quickstart/)
 - [MongoDB](https://www.mongodb.com/products/platform/atlas-vector-search)
 - [Neon Postgres](https://neon.tech/docs/ai/ai-intro)
+- [pgvector on Timescale](https://docs.timescale.com/ai/latest/)
 - [Pinecone](https://docs.pinecone.io/docs/quickstart)
 - [PolarDB](https://www.alibabacloud.com/help/en/polardb/latest/quick-start)
 - [Qdrant](https://qdrant.tech/documentation/quick-start/)

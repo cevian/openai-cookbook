@@ -1225,7 +1225,6 @@
     - vision
     - embeddings
 
-
 - title: How to use the moderation API
   path: examples/How_to_use_moderation.ipynb
   date: 2024-03-05
@@ -1233,3 +1232,35 @@
     - teomusatoiu
   tags:
     - moderation
+
+- title: Timescale vector database
+  path: examples/vector_databases/timescale/README.md
+  date: 2024-03-20
+  authors:
+    - cevian
+  tags:
+    - embeddings
+    - completions
+    - time
+
+- title: Time-based filtering with Timescale and LangChain
+  path: examples/vector_databases/timescale/time_based_filtering_with_langchain.ipynb
+  date: 2024-03-20
+  authors:
+    - cevian
+  tags:
+    - embeddings
+    - completions
+    - time
+    - langchain
+
+- title: Time-based filtering with Timescale and LlamaIndex
+  path: examples/vector_databases/timescale/time_based_filtering_with_llamaindex.ipynb
+  date: 2024-03-20
+  authors:
+    - cevian
+  tags:
+    - embeddings
+    - completions
+    - time
+    - llamaindex
