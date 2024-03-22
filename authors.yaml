@@ -82,3 +82,8 @@ jbeutler-openai:
   name: "Joe Beutler"
   website: "https://joebeutler.com"
   avatar: "https://avatars.githubusercontent.com/u/156261485?v=4"
+
+cevian:
+  name: "Matvey Arye"
+  website: "https://www.linkedin.com/in/matvey-arye/"
+  avatar: "https://avatars.githubusercontent.com/u/112245?v=4"
